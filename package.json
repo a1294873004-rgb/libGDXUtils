@@ -3,14 +3,10 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "gen:svg": "node scripts/icons.js",
     "dev": "  webpack serve -c ./webpack.config.js",
-    "build": "webpack build -c ./webpack.config.js --mode production",
-    "build1": "webpack build -c ./webpack.config.js",
-    "build:online": "webpack build -c ./webpack.config.js --mode production --env online",
-    "i18n:extract": "lingui extract",
-    "i18n:extract_clean": "lingui extract --clean",
-    "i18n:compile": "lingui compile"
+    "gen:keystore": "node ./scripts/gen-keystore.js",
+    "sign:apk": "node ./scripts/sign-apk.js",
+    "align:apk": "zipalign -v 4 app-release-unsigned.apk app-release-signed.apk"
   },
   "dependencies": {
     "@lingui/core": "^5.5.0",
