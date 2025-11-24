@@ -1,0 +1,53 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="&#229;&#143;&#130;&#232;&#128;&#131;&#231;&#148;&#159;&#229;&#155;&#190;">
+        <g id="Group 1171276269">
+            <g id="Mask group">
+                <mask id="mask0_9707_188919" style="mask-type:alpha" maskUnits="userSpaceOnUse"
+                    x="7" y="11" width="25" height="18">
+                    <path id="Subtract" d="M32 20H23C21.8954 20 21 20.8954 21 22V29H7V11H32V20Z"
+                        fill="#FFC249" />
+                </mask>
+                <g mask="url(#mask0_9707_188919)">
+                    <g id="Group 1171276190">
+                        <ellipse id="Ellipse 46" cx="27.5" cy="14.5" rx="1.50001" ry="1.50004"
+                            fill="#26BBFF" />
+                        <g id="Group 1171276186">
+                            <path id="Polygon 21"
+                                d="M21.377 17.574C21.9759 16.8685 23.065 16.8686 23.6641 17.574L26.5957 21.0291C27.4228 22.0035 26.7303 23.4998 25.4521 23.4998H19.5889C18.3108 23.4998 17.6185 22.0035 18.4453 21.0291L21.377 17.574Z"
+                                stroke="#FFFDFA" />
+                            <path id="Polygon 22"
+                                d="M16.8216 15.1939C17.2092 14.6675 17.9908 14.6675 18.3784 15.1939L24.0073 22.8393C24.4821 23.4843 24.0255 24.3993 23.2289 24.3993H11.9712C11.1745 24.3993 10.7179 23.4843 11.1928 22.8393L16.8216 15.1939Z"
+                                fill="#FFC249" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group 1171276268">
+                <path id="Rectangle 34625009"
+                    d="M32 19.1429V15C32 12.7909 30.2091 11 28 11H12C9.79086 11 8 12.7909 8 15V25C8 27.2091 9.79086 29 12 29H19.5"
+                    stroke="#FFFDFA" stroke-linecap="round" />
+            </g>
+            <g id="Group 1171276266">
+                <g id="Group 1171276263">
+                    <line id="Line 172" x1="22.5" y1="22.5" x2="32.5" y2="22.5" stroke="#FFFDFA"
+                        stroke-linecap="round" />
+                    <circle id="Ellipse 803" cx="30.5" cy="22.5" r="1.5" fill="#26BBFF" />
+                </g>
+                <g id="Group 1171276264">
+                    <line id="Line 172_2" x1="22.5" y1="28.5007" x2="32.5" y2="28.5007"
+                        stroke="#FFFDFA" stroke-linecap="round" />
+                    <circle id="Ellipse 803_2" cx="28.5" cy="28.5007" r="1.5" fill="#26BBFF" />
+                </g>
+                <g id="Group 1171276265">
+                    <line id="Line 172_3" x1="22.5" y1="25.4993" x2="32.5" y2="25.4993"
+                        stroke="#FFFDFA" stroke-linecap="round" />
+                    <circle id="Ellipse 803_3" cx="24.5" cy="25.4993" r="1.5" fill="#26BBFF" />
+                </g>
+            </g>
+        </g>
+
+    </g>
+    <path id="Vector 637"
+        d="M35 34.5V30.2071C35 29.7617 34.4614 29.5386 34.1464 29.8536L29.8536 34.1464C29.5386 34.4614 29.7617 35 30.2071 35H34.5C34.7761 35 35 34.7761 35 34.5Z"
+        fill="#A8A292" />
+</svg>

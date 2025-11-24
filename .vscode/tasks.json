@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "生成 svg import : gen:svg",
+      "type": "shell",
+      "command": "yarn gen:svg",
+      "options": {
+        "cwd": "${workspaceFolder}/packages/client"
+      },
+      "group": "build",
+      "presentation": {
+        "echo": false,
+        "reveal": "never",
+        "panel": "silent",
+        "showReuseMessage": false,
+        "clear": false
+      },
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<svg width="31" height="31" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-11.6822" y="-12.4664" width="55.1486" height="55.1486"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(6.27px);clip-path:url(#bgblur_0_8055_35730_clip_path);height:100%;width:100%"></div></foreignObject><g id="&#231;&#189;&#174;&#233;&#161;&#182;" data-figma-bg-blur-radius="12.5338">
+<rect x="0.851562" y="0.0673828" width="30.0811" height="30.0811" rx="5.01351" fill="#191816" fill-opacity="0.4"/>
+<g id="Group 1171276356">
+<line id="Line 164" x1="14.4537" y1="5.4005" x2="24.2228" y2="11.0407" stroke="#FFFDFA" stroke-width="1.25338" stroke-linecap="round"/>
+<path id="Union" d="M22.1376 9.83595L19.6757 14.1001C19.596 14.2382 19.5716 14.402 19.608 14.5572L20.4736 18.2436C20.8497 19.8468 19.1287 21.1241 17.7027 20.3008L9.69446 15.6772C8.2685 14.8538 8.51502 12.7253 10.0914 12.2495L13.7158 11.1553C13.8685 11.1093 13.9981 11.0062 14.0778 10.8682L16.5398 6.60402L22.1376 9.83595Z" stroke="#FFFDFA" stroke-width="1.25338"/>
+<path id="Line 165 (Stroke)" d="M11.1069 23.7298C10.9339 24.0295 10.5506 24.1322 10.2508 23.9592V23.9592C9.95111 23.7861 9.84841 23.4028 10.0215 23.1031L13.4683 17.1331L14.5537 17.7598L11.1069 23.7298Z" fill="#FFFDFA"/>
+</g>
+</g>
+<defs>
+<clipPath id="bgblur_0_8055_35730_clip_path" transform="translate(11.6822 12.4664)"><rect x="0.851562" y="0.0673828" width="30.0811" height="30.0811" rx="5.01351"/>
+</clipPath></defs>
+</svg>

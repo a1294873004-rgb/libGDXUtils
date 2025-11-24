@@ -1,0 +1,13 @@
+<svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="note">
+<rect x="1" y="1" width="40" height="40" rx="8" fill="#423C2B"/>
+<rect x="1" y="1" width="40" height="40" rx="8" stroke="#6F6855"/>
+<g id="Group 1171276345">
+<path id="Rectangle 34624901" d="M33 15V31C33 33.2091 31.2091 35 29 35H13C10.7909 35 9 33.2091 9 31V11C9 8.79086 10.7909 7 13 7H25M33 15L25 7M33 15H27C25.8954 15 25 14.1046 25 13V7" stroke="#FFFDFA"/>
+<g id="Group 1171276346">
+<line id="Line 161" x1="1" y1="-1" x2="13" y2="-1" transform="matrix(1 -8.74227e-08 -8.74227e-08 -1 13 27)" stroke="#FFC249" stroke-width="2" stroke-linecap="round"/>
+<line id="Line 162" x1="1" y1="-1" x2="11" y2="-1" transform="matrix(1 1.09278e-07 1.09278e-07 -1 13 22)" stroke="#26BBFF" stroke-width="2" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+</svg>

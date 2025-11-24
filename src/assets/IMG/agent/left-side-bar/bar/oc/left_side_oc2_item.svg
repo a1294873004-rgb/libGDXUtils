@@ -1,0 +1,41 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="&#232;&#161;&#168;&#230;&#131;&#133;&#230;&#142;&#167;&#229;&#136;&#182;">
+        <g id="Group 1171276488">
+            <g id="Group 1171276162">
+                <g id="Group 1171275791">
+                    <path id="Ellipse 87"
+                        d="M31 19C31 12.3726 25.6274 7 19 7C12.3726 7 7 12.3726 7 19C7 25.6274 12.3726 31 19 31"
+                        stroke="#FFFDFA" stroke-linecap="round" />
+                    <g id="Group 1171276163">
+                        <path id="Vector 876" d="M12 14L12 17" stroke="#FFC249" stroke-width="2"
+                            stroke-linecap="round" />
+                        <path id="Vector 877" d="M21.4715 15.9704L19.2434 14.2281L20.9857 12"
+                            stroke="#FFC249" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        <path id="Vector 878"
+                            d="M14 19.5529C14 19.5529 15.3234 20.7512 17.1937 20.2501C19.064 19.7489 19.8058 18.0383 19.8058 18.0383"
+                            stroke="#FFC249" stroke-width="1.5" stroke-linecap="round" />
+                    </g>
+                </g>
+            </g>
+            <g id="Group 1171276266">
+                <g id="Group 1171276263">
+                    <line id="Line 172" x1="21.5" y1="22.5" x2="32.5" y2="22.5" stroke="#FFFDFA"
+                        stroke-linecap="round" />
+                    <circle id="Ellipse 803" cx="30.5" cy="22.5" r="1.5" fill="#CCE5FF" />
+                </g>
+                <g id="Group 1171276264">
+                    <line id="Line 172_2" x1="21.5" y1="30.5" x2="32.5" y2="30.5" stroke="#FFFDFA"
+                        stroke-linecap="round" />
+                    <circle id="Ellipse 803_2" cx="28.5" cy="30.5" r="1.5" fill="#FFCCFF" />
+                </g>
+                <g id="Group 1171276265">
+                    <line id="Line 172_3" x1="21.5" y1="26.5" x2="32.5" y2="26.5" stroke="#FFFDFA"
+                        stroke-linecap="round" />
+                    <circle id="Ellipse 803_3" cx="24.5" cy="26.5" r="1.5" fill="#26BBFF" />
+                </g>
+            </g>
+        </g>
+
+    </g>
+</svg>

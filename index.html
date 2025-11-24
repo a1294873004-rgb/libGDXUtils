@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>YidooO</title>
+    <link rel="shortcut icon" href="./" />
+    <!-- google 登入需要的lib -->
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PQ5ZF8SC');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- 添加不同尺寸的图标以提高兼容性 -->
+    <!-- <link rel="icon" type="image/png" href="/src/assets/IMG/agentAvatar.svg" width="7" height="40" object-fit="cover" />
+    <link rel="icon" type="image/png" href="/src/assets/IMG/agentAvatar.svg" width="60" height="60" object-fit="cover" /> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      window.onerror = function (message, source, lineno, colno, error) {
+        console.log(message, source, lineno, colno, error);
+        if(window.dataLayer)
+          window.dataLayer.push({
+            event: 'client_error', // 自定义事件名
+            error_message: message?.toString(),
+            error_source: source || '',
+            error_line: lineno || 0,
+            error_column: colno || 0,
+            error_stack: error?.stack || '',
+            url: window.location.href
+          });
+        console.warn('[Error caught]', message, source, lineno, colno, error);
+      };
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

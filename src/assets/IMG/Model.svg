@@ -1,0 +1,29 @@
+<svg width="53" height="53" viewBox="0 0 53 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="template_default">
+<g id="Group 1171276331">
+<g id="Mask group">
+<mask id="mask0_4842_96908" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="13" y="15" width="27" height="27">
+<path id="Rectangle 4" d="M15.6206 40.8006H36.6712C37.7647 40.8006 38.6512 39.9141 38.6512 38.8206V22.3543C38.6512 22.1494 38.6034 21.9472 38.5118 21.764L36.2545 17.2494C35.8073 16.355 34.8932 15.79 33.8932 15.79H18.3986C17.3986 15.79 16.4845 16.355 16.0373 17.2494L13.78 21.764C13.6883 21.9472 13.6406 22.1494 13.6406 22.3543V38.8206C13.6406 39.9141 14.5271 40.8006 15.6206 40.8006Z" fill="#191816" stroke="#FFFDFA" stroke-width="1.2" stroke-linecap="round"/>
+</mask>
+<g mask="url(#mask0_4842_96908)">
+<rect id="Rectangle 34624735" x="11.4395" y="22.2002" width="30" height="22.8" fill="#FFC249"/>
+</g>
+</g>
+<path id="Vector 593" d="M35.1782 15.5996H17.8097L13.1992 21.5996H39.5992L35.1782 15.5996Z" fill="#ED9E00"/>
+<path id="Vector 594" d="M19.1992 15.5996L34.7992 15.5996" stroke="#FFFDFA" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="Group 1171276330">
+<rect id="Rectangle 34625581" x="28.2676" y="17.6934" width="12.4843" height="16.0513" rx="1.8" transform="rotate(24.8023 28.2676 17.6934)" fill="#FFE6B5"/>
+<rect id="Rectangle 34625579" x="20.6406" y="19.7676" width="13.1526" height="14.5125" rx="1.8" transform="rotate(-5.15547 20.6406 19.7676)" fill="#26BBFF"/>
+<rect id="Rectangle 34625580" x="14.4004" y="20.707" width="12.4843" height="16.0513" rx="1.8" transform="rotate(-18.2355 14.4004 20.707)" fill="#FFCCFF"/>
+</g>
+<path id="Rectangle 34624734" d="M27.7533 17.0361C27.6607 17.0004 27.5996 16.9114 27.5996 16.8121V12.3521C27.5996 12.183 27.7704 12.0671 27.9276 12.1297C30.6635 13.219 32.3032 14.0576 35.1096 15.163C35.1541 15.1805 35.193 15.2111 35.2201 15.2504L39.1585 20.9605C39.2926 21.1548 39.095 21.4056 38.8747 21.3207L27.7533 17.0361Z" fill="#FFC249" stroke="#FFFDFA" stroke-width="1.2" stroke-linejoin="round"/>
+<path id="Rectangle 34624737" d="M25.4363 17.0132C25.53 16.9781 25.5921 16.8886 25.5921 16.7885V12.3545C25.5921 12.1847 25.4206 12.0686 25.2629 12.1316L17.9154 15.0702C17.8728 15.0873 17.836 15.1161 17.8093 15.1535L13.6575 20.9591C13.5196 21.1519 13.715 21.4067 13.937 21.3235L25.4363 17.0132Z" fill="#FFC249" stroke="#FFFDFA" stroke-width="1.2" stroke-linejoin="round"/>
+<rect id="Rectangle 34624735_2" x="13.8418" y="22.2002" width="25.2" height="18" fill="#FFC249"/>
+<path id="Rectangle 4_2" d="M13.1992 21.5996V38.8196C13.1992 39.9131 14.0857 40.7996 15.1792 40.7996H37.6192C38.7127 40.7996 39.5992 39.9131 39.5992 38.8196V21.5996" stroke="#FFFDFA" stroke-width="1.2" stroke-linecap="round"/>
+<g id="Group 1171275880">
+<rect id="Rectangle 34624737_2" x="16.5586" y="34.1992" width="10.56" height="1.32" rx="0.66" fill="#FFFDFA"/>
+</g>
+<path id="Vector 583" d="M13.8418 22.2002H39.0418" stroke="#FFFDFA" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

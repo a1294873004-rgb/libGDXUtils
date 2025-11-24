@@ -1,0 +1,15 @@
+<svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#232;&#161;&#168;&#230;&#160;&#188;">
+<rect x="1" y="1" width="40" height="40" rx="8" fill="#26231B"/>
+<rect x="1" y="1" width="40" height="40" rx="8" stroke="#E6B08A" stroke-width="2"/>
+<g id="Group 1171276049">
+<path id="Rectangle 34624827" d="M9 14C9 11.7909 10.7909 10 13 10H29C31.2091 10 33 11.7909 33 14V28C33 30.2091 31.2091 32 29 32H13C10.7909 32 9 30.2091 9 28V14Z" stroke="#FFFDFA"/>
+<path id="Line 94" d="M11 21.5H31" stroke="#26BBFF" stroke-width="1.5" stroke-linecap="round"/>
+<path id="Line 95" d="M11 26.5H31" stroke="#26BBFF" stroke-width="1.5" stroke-linecap="round"/>
+<line id="Line 90" x1="26.75" y1="18.75" x2="26.75" y2="29.25" stroke="#26BBFF" stroke-width="1.5" stroke-linecap="round"/>
+<line id="Line 91" x1="16.75" y1="18.75" x2="16.75" y2="29.25" stroke="#26BBFF" stroke-width="1.5" stroke-linecap="round"/>
+<path id="Rectangle 34624826" d="M9 14C9 11.7909 10.7909 10 13 10H29C31.2091 10 33 11.7909 33 14V16H9V14Z" fill="#FFC249" stroke="#FFFDFA" stroke-width="1.5"/>
+<rect id="Rectangle 34624825" x="9" y="10" width="24" height="22" rx="4" stroke="#FFFDFA" stroke-width="1.5"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="note">
+<g id="Group 1171276345">
+<path id="Rectangle 34624901" d="M32 14V30C32 32.2091 30.2091 34 28 34H12C9.79086 34 8 32.2091 8 30V10C8 7.79086 9.79086 6 12 6H24M32 14L24 6M32 14H26C24.8954 14 24 13.1046 24 12V6" stroke="#FFFDFA"/>
+<g id="Group 1171276346">
+<line id="Line 161" x1="1" y1="-1" x2="13" y2="-1" transform="matrix(1 -8.74227e-08 -8.74227e-08 -1 12 26)" stroke="#FFC249" stroke-width="2" stroke-linecap="round"/>
+<line id="Line 162" x1="1" y1="-1" x2="11" y2="-1" transform="matrix(1 1.09278e-07 1.09278e-07 -1 12 21)" stroke="#26BBFF" stroke-width="2" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+</svg>

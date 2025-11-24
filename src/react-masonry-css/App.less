@@ -1,0 +1,34 @@
+/* Masonry 容器 */
+.masonry-grid {
+  display: flex;
+  margin-left: -16px; /* 左边的 gutter 偏移 */
+  width: auto;
+}
+
+/* 每一列 */
+.masonry-grid_column {
+  padding-left: 16px; /* gutter */
+  background-clip: padding-box;
+}
+
+/* 卡片样式 */
+.card {
+  background: #eeeeee;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  padding: 12px;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: 1.87px solid;
+
+  border-image-source: linear-gradient(
+    12.39deg,
+    rgba(255, 255, 255, 0.4) 0%,
+    rgba(102, 102, 102, 0.4) 24.52%,
+    rgba(102, 102, 102, 0.4) 75%,
+    rgba(255, 255, 255, 0.4) 100%
+  );
+}

@@ -1,0 +1,23 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 5.64893L15.1851 5.64893" stroke="#FFC249" stroke-width="0.833333"
+        stroke-linecap="round" />
+    <path d="M4.81445 5.64893L7.40699 5.64893" stroke="#FFC249" stroke-width="0.833333"
+        stroke-linecap="round" />
+    <ellipse cx="8.70373" cy="5.64879" rx="1.29626" ry="1.29627"
+        transform="rotate(90 8.70373 5.64879)" stroke="#FFC249" stroke-width="0.833333"
+        stroke-linecap="round" />
+    <path d="M13.2417 10.1855L15.1861 10.1855" stroke="#FFC249" stroke-width="0.833333"
+        stroke-linecap="round" />
+    <path d="M4.81592 10.1855L10.6491 10.1855" stroke="#FFC249" stroke-width="0.833333"
+        stroke-linecap="round" />
+    <ellipse cx="11.9454" cy="10.1857" rx="1.29626" ry="1.29627"
+        transform="rotate(90 11.9454 10.1857)" stroke="#FFC249" stroke-width="0.833333"
+        stroke-linecap="round" />
+    <path d="M4.81445 14.7234L6.75886 14.7234" stroke="#FFC249" stroke-width="0.833333"
+        stroke-linecap="round" />
+    <path d="M9.35156 14.7234L15.1848 14.7234" stroke="#FFC249" stroke-width="0.833333"
+        stroke-linecap="round" />
+    <ellipse cx="8.05529" cy="14.7233" rx="1.29626" ry="1.29627"
+        transform="rotate(90 8.05529 14.7233)" stroke="#FFC249" stroke-width="0.833333"
+        stroke-linecap="round" />
+</svg>
