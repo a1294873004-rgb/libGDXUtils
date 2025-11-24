@@ -1,55 +1,69 @@
 const { spawn } = require("child_process");
 const path = require("path");
 
-// jarsigner.exe 的路径
-const jarsignerPath = path.join(
-  "D:",
-  "tk",
-  "libs",
-  "jdk-17.0.12",
-  "bin",
-  "jarsigner.exe"
+const env = { ...process.env };
+env.JAVA_HOME = "D:\\tk\\libs\\jdk-17.0.12";
+env.PATH = `${env.JAVA_HOME}\\bin;${env.PATH}`;
+
+const apksignerPath = path.join(
+  "C:",
+  "Users",
+  "Administrator",
+  "AppData",
+  "Local",
+  "Android",
+  "Sdk",
+  "build-tools",
+  "35.0.0",
+  "apksigner.bat"
 );
 
-// APK 文件路径
-const apkPath = path.join(__dirname, "../apks", "android-release-unsigned.apk");
+const unsignedApkPath = path.join(
+  __dirname,
+  "../apks",
+  "android-release-unsigned.apk"
+);
+const signedApkPath = path.join(
+  __dirname,
+  "../apks",
+  "android-release-signed.apk"
+);
 
-// keystore 文件路径
 const keystorePath = path.join(
   __dirname,
   "../releases",
   "test-game-release-key.jks"
 );
-
-// key alias 和密码
 const keyAlias = "test-game-alias";
-const storePass = "123456"; // keystore 密码
-const keyPass = "123456"; // key 密码（可与 storePass 相同）
+const storePass = "123456";
 
-// jarsigner 参数
 const args = [
-  "-verbose",
-  "-sigalg",
-  "SHA1withRSA",
-  "-digestalg",
-  "SHA1",
-  "-keystore",
+  "sign",
+  "--ks",
   keystorePath,
-  "-storepass",
-  storePass,
-  "-keypass",
-  keyPass,
-  apkPath,
+  "--ks-key-alias",
   keyAlias,
+  "--ks-pass",
+  `pass:${storePass}`,
+  "--v1-signing-enabled",
+  "true",
+  "--v2-signing-enabled",
+  "true",
+  "--out",
+  signedApkPath, // 指定输出新 APK
+  unsignedApkPath,
 ];
 
-// 使用 spawn 并继承 stdio，这样可以在控制台输入密码
-const child = spawn(jarsignerPath, args, { stdio: "inherit" });
+const child = spawn(apksignerPath, args, {
+  stdio: "inherit",
+  shell: true,
+  env,
+});
 
 child.on("exit", (code) => {
   if (code === 0) {
-    console.log("APK 签名成功！");
+    console.log("APK 签名成功！输出文件:", signedApkPath);
   } else {
-    console.error(`jarsigner 进程退出，退出码: ${code}`);
+    console.error(`apksigner 进程退出，退出码: ${code}`);
   }
 });
